@@ -4,7 +4,8 @@ int main(){
 	int b = 20;
 	int c = a+b;
 	printf("%d\n",c);
-        printf("Hello World");
+	printf("Hello World");
 	printf("certret");
+	printf("Getting bored without doubt");
 	return 0;
 }
